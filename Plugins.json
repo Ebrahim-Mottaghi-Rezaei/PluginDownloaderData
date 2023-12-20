@@ -53,20 +53,20 @@
         "ReleaseNotesURL": ""
     },
     {
-        "Name": "Realtime Mesh Component",
-        "Icon": "https://raw.githubusercontent.com/TriAxis-Games/RealtimeMeshComponent/master/Resources/Icon128.png",
-        "User": "TriAxis-Games",
-        "Repo": "RealtimeMeshComponent",
-        "Descriptor": "RealtimeMeshComponent.uplugin",
-        "StableBranch": "master",
-        "ReleaseNotesURL": "https://github.com/TriAxis-Games/RealtimeMeshComponent/releases"
-    },
-    {
         "Name": "Locomotion",
-        "Icon": "https://raw.githubusercontent.com/Ebrahim-Mottaghi-Rezaei/Locomotion/master/Resources/Icon128.png",
+        "Icon": "https://github.com/Ebrahim-Mottaghi-Rezaei/Locomotion/blob/master/Resources/Icon128.png",
         "User": "ebrahim-mottaghi-rezaei",
         "Repo": "Locomotion",
         "Descriptor": "Locomotion.uplugin",
+        "StableBranch": "master",
+        "ReleaseNotesURL": ""
+    },
+    {
+        "Name": "EasyLogger",
+        "Icon": "https://raw.githubusercontent.com/Ebrahim-Mottaghi-Rezaei/EasyLogger/master/Resources/Icon128.png",
+        "User": "ebrahim-mottaghi-rezaei",
+        "Repo": "EasyLogger",
+        "Descriptor": "EasyLogger.uplugin",
         "StableBranch": "master",
         "ReleaseNotesURL": ""
     }
